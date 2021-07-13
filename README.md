@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronRebel09
 - 👀 I’m interested in development
-- 🌱 I’m currently learning react and swift
+- 🌱 I’m currently learning rust react and swift
 - 💞️ I’m looking to collaborate on a clothing Store
 - 📫 How to reach me ...
 
